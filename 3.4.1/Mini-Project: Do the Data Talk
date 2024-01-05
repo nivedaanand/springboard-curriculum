@@ -1,0 +1,10 @@
+Do you need a faceless account to pull this data?
+How often do we pull this data?
+Where does it get stored?
+How long should the data be stored for?
+Who is responsible to make sure it is running properly and not erroring out?
+Any KPI or alerts set if data fails to come in?
+Cost of storage of data?
+Processing power requeird for tranformation of a huge olume of data and if its available
+BC DR process in place?
+who can access the reults?
